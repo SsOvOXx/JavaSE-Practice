@@ -1,0 +1,5 @@
+# Project exclude paths
+/javase-02/target/
+/javase-03/target/
+/javase-04/target/
+/Leetcode/target/
